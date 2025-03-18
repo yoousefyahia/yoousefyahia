@@ -1,6 +1,5 @@
-![Background Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0IutJqde9XvdyPMwOKgFb85WFyzFpE6M70A&s)
 # Hi I'm Yousef Yahia
-### Front-End Developer & Competitive Programmer
+### Front-End Developer & Software Devloper
 
 
 
