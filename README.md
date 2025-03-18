@@ -1,4 +1,4 @@
-![Background Image](https://agilesparks.com/wp-content/uploads/2022/08/React_logo_wordmark.png)
+![Background Image](https://agilesparks.com/wp-content/uploads/2022/08/React_logo_wordmark.png =200x)
 # Hi I'm Yousef Yahia
 ### Front-End Developer & Competitive Programmer
 
