@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm Yousef Yahia </h1>
+<h1 align="center"> Hi I'm Yousef Yahia </h1>
 <h3 align="center">Front-End Developer & Competitive Programmer</h3>
 
 <p align="center">
@@ -9,15 +9,16 @@
 
 ### 👨‍💻 About Me:
 - 🎓 Computer Science student at Mansoura University
-- 🏆 Qualified in ICPC - Mansoura University
+- 🏆 Qualified in ECPC - Mansoura University
 - ⚡ Passionate about Front-End development and solving competitive programming problems  
 
 ---
 
 ### 🔗 Connect with Me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yoousefyahia@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoousefyahia/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousefyahia74/)
 [![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yoousefyahia)
+
 
 ---
 
