@@ -1,5 +1,10 @@
-<h1 align="center"> Hi I'm Yousef Yahia </h1>
-<h3 align="center">Front-End Developer & Competitive Programmer</h3>
+<h1 align="center" style="background: linear-gradient(to right, #6a11cb, #2575fc); padding: 10px; color: white; border-radius: 10px;">
+  Hi I'm Yousef Yahia
+</h1>
+<h3 align="center" style="background: linear-gradient(to right, #6a11cb, #2575fc); padding: 5px; color: white; border-radius: 10px;">
+  Front-End Developer & Competitive Programmer
+</h3>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yoousefyahia&label=Profile%20Views&color=0e75b6&style=flat" alt="yoousefyahia" />
