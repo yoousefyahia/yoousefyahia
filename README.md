@@ -1,7 +1,7 @@
-<h1 align="center" style="background: linear-gradient(to right, #6a11cb, #2575fc); padding: 10px; color: white; border-radius: 10px;">
+<h1 align="center" style="background-color: black; padding: 10px; color: white; border-radius: 10px;">
   Hi I'm Yousef Yahia
 </h1>
-<h3 align="center" style="background: linear-gradient(to right, #6a11cb, #2575fc); padding: 5px; color: white; border-radius: 10px;">
+<h3 align="center" style="background-color: black; padding: 5px; color: white; border-radius: 10px;">
   Front-End Developer & Competitive Programmer
 </h3>
 
