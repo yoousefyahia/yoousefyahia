@@ -51,8 +51,20 @@
   </a>
 </p>
 
+<section>
+  <h3>📊 TOP Language</h3>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoousefyahia&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
+</section>
 
----
+<section>
+  <h3>🗓️ Contribution Graph</h3>
+  <a href="https://github.com/yoousefyahia">
+    <img src="https://github-readme-stats.vercel.app/api?username=yoousefyahia&show_icons=true&count_private=true&theme=radical" alt="Contribution Graph" />
+  </a>
+</section>
+
 
 ### 📊 GitHub Stats:
 <p align="center">
