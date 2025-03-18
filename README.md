@@ -1,9 +1,6 @@
-<h1 align="center" style="background-color: black; padding: 10px; color: white; border-radius: 10px;">
-  Hi I'm Yousef Yahia
-</h1>
-<h3 align="center" style="background-color: black; padding: 5px; color: white; border-radius: 10px;">
-  Front-End Developer & Competitive Programmer
-</h3>
+# Hi I'm Yousef Yahia
+### Front-End Developer & Competitive Programmer
+
 
 
 <p align="center">
