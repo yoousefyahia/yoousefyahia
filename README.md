@@ -43,7 +43,9 @@
 
 #### 🏆 Competitive Programming:
 <p>
+<a href="https://codeforces.com/profile/elmasryyousef80" target="_blank">
   <img src="https://img.shields.io/badge/Codeforces-%230092CF.svg?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
   <img src="https://img.shields.io/badge/ICPC-%230092CF.svg?style=for-the-badge&logo=icpc&logoColor=white" />
 </p>
 
