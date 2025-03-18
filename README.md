@@ -4,6 +4,11 @@
 
 ### Front-End Developer & Software Engineer
 
+I'm Yousef Yahia, a passionate front-end developer with a strong foundation in software engineering. I specialize in creating responsive and user-friendly websites, with expertise in HTML, CSS, JavaScript, and React. I'm always looking to improve my skills and tackle new challenges.
+
+Feel free to explore my projects and get in touch if you'd like to collaborate!
+
+</div>
 
 
 <p align="center">
