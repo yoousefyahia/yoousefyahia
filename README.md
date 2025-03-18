@@ -1,3 +1,4 @@
+![Background Image](https://link-to-your-image.com/image.jpg)
 # Hi I'm Yousef Yahia
 ### Front-End Developer & Competitive Programmer
 
