@@ -43,11 +43,14 @@
 
 #### 🏆 Competitive Programming:
 <p>
-<a href="https://codeforces.com/profile/elmasryyousef80" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-%230092CF.svg?style=for-the-badge&logo=codeforces&logoColor=white" />
-</a>
-  <img src="https://img.shields.io/badge/ICPC-%230092CF.svg?style=for-the-badge&logo=icpc&logoColor=white" />
+  <a href="https://codeforces.com/profile/elmasryyousef80" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-%230092CF.svg?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://icpc.global/" target="_blank">
+    <img src="https://img.shields.io/badge/ICPC-%230092CF.svg?style=for-the-badge&logo=icpc&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
@@ -56,7 +59,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yoousefyahia&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoousefyahia&theme=tokyonight" />
 </p>
-
----
-
-⭐ **If you like my profile, don’t forget to leave a star!** 😊✨
