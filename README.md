@@ -80,9 +80,5 @@ Feel free to explore my projects and get in touch if you'd like to collaborate!
 </section>
 
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yoousefyahia&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoousefyahia&theme=tokyonight" />
-</p>
+
  
