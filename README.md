@@ -71,7 +71,12 @@ Feel free to explore my projects and get in touch if you'd like to collaborate!
     <img src="https://img.shields.io/badge/ICPC-%230092CF.svg?style=for-the-badge&logo=icpc&logoColor=white" />
   </a>
 </p>
-
+<section>
+  <h3>📊 Used Language</h3>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoousefyahia&layout=compact&theme=radical" alt="Languages" />
+  </a>
+</section>
 
 
 
