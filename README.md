@@ -72,13 +72,12 @@ Feel free to explore my projects and get in touch if you'd like to collaborate!
   </a>
 </p>
 
-<section>
-  <h3>📊 TOP Language</h3>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoousefyahia&layout=compact&theme=radical" alt="Top Languages" />
-  </a>
-</section>
 
 
 
- 
+
+ ### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yoousefyahia&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoousefyahia&theme=tokyonight" />
+</p>
