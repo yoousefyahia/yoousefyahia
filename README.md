@@ -16,12 +16,11 @@ Feel free to explore my projects and get in touch if you'd like to collaborate!
 </p>
 
 ---
-<div align="center">
 ### 👨‍💻 About Me:
 - 🎓 Computer Science student at Mansoura University
 - 🏆 Qualified in ECPC - Mansoura University
 - ⚡ Passionate about Front-End development and solving competitive programming problems  
-</div>
+
 ---
 
 ### 🔗 Connect with Me:
