@@ -4,7 +4,7 @@
 
 ### Front-End Developer & Software Engineer
 
- a passionate front-end developer with a strong foundation in software engineering. I specialize in creating responsive and user-friendly websites, with expertise in React. I'm always looking to improve my skills and tackle new challenges.
+ a front-end developer with a strong foundation in software engineering. I specialize in creating responsive and user-friendly websites, with expertise in React. I'm always looking to improve my skills and tackle new challenges.
 
 Feel free to explore my projects and get in touch if you'd like to collaborate!
 
