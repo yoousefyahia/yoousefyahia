@@ -2,7 +2,7 @@
 
 # Yousef Yahia
 
-### Front-End Developer(React-Next) & Software Engineer
+### Frontend Developer(React-Next) & Software Engineer
 
  a front-end developer with a strong foundation in software engineering. I specialize in creating responsive and user-friendly websites, with expertise in React. I'm always looking to improve my skills and tackle new challenges.
 
