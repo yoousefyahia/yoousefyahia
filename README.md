@@ -17,7 +17,7 @@ Feel free to explore my projects and get in touch if you'd like to collaborate!
 
 ---
 ### 👨‍💻 About Me:
-- 🎓 Computer Science student at Mansoura University(Class of 2026)
+- 🎓 Graduate from faculty of science at Computer Science major at Mansoura University (Class of 2026)
 - 🏆 Qualified in ECPC - Mansoura University
 - ⚡ Passionate about Front-End development and solving competitive programming problems  
 
